@@ -1,2 +1,1 @@
-# Papers
-Interesting scientist papers
+# Interesting scientific papers from well-known conferences
